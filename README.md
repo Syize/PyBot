@@ -29,8 +29,8 @@ chmod +x install.sh
 
 ```bash
 QQBot -h	#打印出简略的帮助信息
-	  -s start|restart|stop		#启动|重启Python进程|停止
-	  -d	#以守护进程形式在后台运行
+      -s start|restart|stop		#启动|重启Python进程|停止
+      -d	#以守护进程形式在后台运行
 ```
 
 一般使用如下命令即可
