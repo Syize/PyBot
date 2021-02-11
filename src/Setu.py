@@ -17,7 +17,7 @@ def Setu(*args, **kwargs):
     其他具体参数请看SendMsg函数
     '''
     #先调用API获取链接，达到调用次数之后发送已保存的图片
-    APIKEY = '34705994602111f77bc924'
+    APIKEY = 'your Key'
     REQ = {
             'apikey':APIKEY,
             'size1200':True
